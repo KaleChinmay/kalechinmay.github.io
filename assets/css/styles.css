@@ -1,5 +1,5 @@
 body {
-	background-color: orange; 
+	background-color: white; 
 	font-family: arial, Helvetica, sans-serif;
 }
 
@@ -34,4 +34,16 @@ h2 {
 .navigation {
 	display: inline-block;
 	padding: 20px;
+}
+
+
+nav{
+	display: flex;
+	justify-content: space-around;
+	margin: 20px;
+}
+
+
+wc {
+	height: 1000px;
 }
