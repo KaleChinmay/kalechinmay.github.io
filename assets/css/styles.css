@@ -49,3 +49,15 @@ nav{
 	width: 1240px;
 	
 }
+
+.connect {
+	display: flex;
+	justify-content: center;
+}
+
+.git {
+	padding: 10px; 
+	font-size: 15; 
+	background-color: black;
+	color: white;
+}
